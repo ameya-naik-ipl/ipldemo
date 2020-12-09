@@ -1,0 +1,3 @@
+This is a sample file created to test GIT version control - change
+
+Add a line from branch
