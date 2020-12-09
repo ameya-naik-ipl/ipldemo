@@ -3,3 +3,6 @@
 *.class
 *.jpg
 *.mp4
+/test/
+*.DS_Store
+
